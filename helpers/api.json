@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "nombre": "Comida para Perros",
+      "precio": 20.99,
+      "imagen": "comida_perros.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Comida para Gatos",
+      "precio": 15.99,
+      "imagen": "comida_gatos.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Juguete para Perros",
+      "precio": 9.99,
+      "imagen": "juguete_perros.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Rascador para Gatos",
+      "precio": 25.49,
+      "imagen": "rascador_gatos.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Hueso de Cuero para Perros",
+      "precio": 12.75,
+      "imagen": "hueso_cuero.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Arena para Gatos",
+      "precio": 8.99,
+      "imagen": "arena_gatos.png"
+    }
+  ]
+  
